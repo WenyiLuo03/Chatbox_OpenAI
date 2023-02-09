@@ -1,0 +1,1 @@
+To run the program successfully, please save your openAI API key as a string in config.py.
